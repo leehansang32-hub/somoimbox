@@ -1,0 +1,16 @@
+{
+    "appName": "소모임테스트",
+    "description": "소모임 공장 테스트 버전입니다.",
+    "theme": {
+        "primaryColor": "oklch(0.65 0.22 35)",
+        "radius": "0.5rem"
+    },
+    "features": {
+        "chat": true,
+        "events": true,
+        "board": true
+    },
+    "assets": {
+        "logo": "/logo.png"
+    }
+}
